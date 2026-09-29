@@ -1,0 +1,6 @@
+__pycache__/
+*.class
+*.tgz
+IRCdata/
+venv/
+.env
